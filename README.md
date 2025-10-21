@@ -1,10 +1,12 @@
-# Hi 👋, I'm Aaditya Agarwal
+# Hi there , I'm Aaditya Agarwal 👋
 
 ### A passionate developer 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psy-duck1" alt="psy-duck1" /></a> </p>
 
 - 👯 I'm looking to collaborate on **open source projects**
+- 🌱 I’m currently learning **advanced algorithms and data structures**
+
 
 - 📫 How to reach me **aadityaagarwal101@gmail.com**
 
