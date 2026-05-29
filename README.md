@@ -3,7 +3,7 @@
 ### A passionate developer 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=psy-duck1&theme=onedark&row=1&column=7" alt="Aaditya's Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=psy-duck1&theme=onedark&row=1&column=7" alt="Aaditya's Trophies" />
 </p>
 
 ---
@@ -31,13 +31,11 @@
   </a>
 </p>
 
-*Note: For data science visualization (Matplotlib, Seaborn, NumPy, Pandas, Scikit-Learn), SkillIcons can be supplemented or represented via Python ecosystem tools.*
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psy-duck1&show_icons=true&theme=dark&locale=en" alt="Aaditya's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psy-duck1&show_icons=true&theme=dark&locale=en&layout=compact" alt="Aaditya's Top Languages" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=psy-duck1&show_icons=true&theme=dark&locale=en" alt="Aaditya's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=psy-duck1&show_icons=true&theme=dark&locale=en&layout=compact" alt="Aaditya's Top Languages" height="150" />
 </p>
