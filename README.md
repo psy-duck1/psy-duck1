@@ -1,7 +1,7 @@
 # Hi there , I'm Aaditya Agarwal 👋
 
 ### A passionate developer 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=psy-duck1&theme=onedark)](https://github.com/psy-duck1/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psy-duck1" alt="psy-duck1" /></a> </p>
 
 - 👯 I'm looking to collaborate on **open source projects**
